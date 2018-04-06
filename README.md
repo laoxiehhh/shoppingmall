@@ -1,2 +1,5 @@
 # shoppingmall
-移动端商城
+### 安装
+* npm install
+* npm run xxd
+* 在浏览器打开http://localhost:8080/
